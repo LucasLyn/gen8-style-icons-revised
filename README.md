@@ -25,7 +25,11 @@ to Gen. 8 SW/SH styled icons.
 
 ## Screenshots
 
-WIP
+![Showcasing the PC with a bunch of different Pokemon.](ss_pc_1.png)
+![Showcasing the PC with more Pokemon including shinies.](ss_pc_2.png)
+
+![Showcasing the GTL with gendered icons.](ss_gtl_1.png)
+![Showcasing the GTL with a bunch of different shinies.](ss_gtl_2.png)
 
 
 ## Installation
