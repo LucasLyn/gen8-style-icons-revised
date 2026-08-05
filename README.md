@@ -6,6 +6,8 @@ This is a PokeMMO mod which changes the default monster icons
 seen in places like the Pokedex, the Party, and the PC,
 to Gen. 8 SW/SH styled icons.
 
+[PokeMMO forums post](https://forums.pokemmo.com/index.php?/topic/199900-gen-8-style-icons-revised/)
+
 [**__Download mod__**]()
 
 [**__Download custom icon mod (add-on)__**]()
