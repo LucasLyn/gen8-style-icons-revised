@@ -8,9 +8,11 @@ to Gen. 8 SW/SH styled icons.
 
 [PokeMMO forums post](https://forums.pokemmo.com/index.php?/topic/199900-gen-8-style-icons-revised/)
 
-[**__Download mod__**](https://github.com/LucasLyn/gen8-style-icons-revised/releases)
+[**__Download mod - v1.0__**](https://github.com/LucasLyn/gen8-style-icons-revised/releases/download/initial/gen8-style-icons-revised.zip)
 
-[**__Download custom icon mod (add-on)__**](https://github.com/LucasLyn/gen8-style-icons-revised/releases)
+[**__Download custom icon mod (add-on) - v0.0.2__**](https://github.com/LucasLyn/gen8-style-icons-revised/releases/download/custom-icons/gen8-style-icons-revised-custom-icons.zip)
+
+[**__Changelog: 2026-08-09__**](https://forums.pokemmo.com/index.php?/topic/199900-gen-8-style-icons-revised/#findComment-2238845)
 
 [**__Installation instructions__**](#installation)
 
